@@ -63,4 +63,3 @@ bt.grid(row=1, column=8)
 window.geometry('600x100')
 
 window.mainloop()
-#todo try to add interactive state change, custom cell definition, more than one structure in one plot
